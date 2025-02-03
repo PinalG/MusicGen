@@ -1,4 +1,4 @@
-# Analysis of Music from Text-Conditioned
+# Advancing Text-to-Music Generation: Evaluating State-of-the-Art Models and Techniques
 
 The field of text-to-music generation presents unique challenges due to the complexity of musical structures and the high fidelity required for realistic audio synthesis. While deep generative models have made strides in text-based content creation, their application to music remains an evolving frontier. This project explores the capabilities of state-of-the-art models—JEN-1, MusicGen, Mustango, and AudioLDM—trained on the MusicCaps and MusicBench datasets to generate music based on textual descriptions. JEN-1, a diffusion-based model, integrates both autoregressive and non-autoregressive training to balance quality, efficiency, and controllability. Mustango, on the other hand, allows for fine-grained control over elements like chords, beats, and tempo, enhancing alignment between textual prompts and generated music.
 
